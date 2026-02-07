@@ -1,10 +1,10 @@
-# 📊 E-Commerce Sales Analysis
+#  E-Commerce Sales Analysis
 
 This project focuses on analyzing e-commerce sales data to uncover meaningful business insights using **Python** and **Power BI**. It demonstrates an end-to-end data analysis workflow — from raw data cleaning to interactive dashboard creation.
 
 ---
 
-## 🚀 Project Objective
+## Project Objective
 
 The main objectives of this project are:
 
@@ -15,7 +15,7 @@ The main objectives of this project are:
 
 ---
 
-## 📦 Dataset Description
+##  Dataset Description
 
 The dataset contains e-commerce transaction details such as:
 
@@ -29,7 +29,7 @@ The data is first cleaned and processed using Python before being visualized in 
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Python**
   - Pandas
@@ -42,7 +42,7 @@ The data is first cleaned and processed using Python before being visualized in 
 
 ---
 
-## 🔍 Key Analysis Performed
+##  Key Analysis Performed
 
 - Total sales and revenue analysis  
 - Category-wise sales distribution  
@@ -52,7 +52,7 @@ The data is first cleaned and processed using Python before being visualized in 
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Identified top-performing product categories  
 - Observed seasonal and monthly sales trends  
