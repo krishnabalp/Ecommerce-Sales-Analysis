@@ -1,8 +1,3 @@
-Perfect 👍
-Here is the **same README rewritten using proper Markdown** with `##` headings and `-` bullet points, **ready to paste directly** into your GitHub repository.
-
----
-
 ## 📊 E-commerce Sales & Pricing Analysis
 
 ## 📌 Project Overview
@@ -98,9 +93,6 @@ Ecommerce-Sales-Analysis/
 * This project showcases an end-to-end data analysis workflow, from raw data processing to dashboard creation.
 * It reflects practical analytics skills relevant to Data Analyst and Business Analyst roles.
 
----
-
-If you want next:
 
 * A **shorter README** (some recruiters skim)
 * A **resume-ready project description**
