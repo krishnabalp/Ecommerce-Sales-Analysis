@@ -1,6 +1,6 @@
-## 📊 E-commerce Sales & Pricing Analysis
+##  E-commerce Sales & Pricing Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 * This project analyzes e-commerce sales and pricing data to understand customer behavior, pricing patterns, and overall business performance.
 * **Python** was used for data cleaning and preprocessing.
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧾 Dataset Description
+##  Dataset Description
 
 * The dataset contains transactional e-commerce data with the following fields:
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 * Python (pandas, numpy)
 * Power BI
@@ -34,7 +34,7 @@
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 * Imported raw e-commerce data into Python
 * Cleaned and prepared the dataset (handled missing values, formatted dates, created derived columns)
@@ -44,7 +44,7 @@
 
 ---
 
-## 📈 Key Analysis & Insights
+##  Key Analysis & Insights
 
 * Category-wise sales performance
 * Monthly purchase trends
@@ -54,7 +54,7 @@
 
 ---
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 * Total transactions and sales metrics
 * Category-level performance comparison
@@ -63,7 +63,7 @@
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Ecommerce-Sales-Analysis/
@@ -78,7 +78,7 @@ Ecommerce-Sales-Analysis/
 
 ---
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
@@ -88,7 +88,7 @@ Ecommerce-Sales-Analysis/
 
 ---
 
-## 🚀 Conclusion
+##  Conclusion
 
 * This project showcases an end-to-end data analysis workflow, from raw data processing to dashboard creation.
 * It reflects practical analytics skills relevant to Data Analyst and Business Analyst roles.
