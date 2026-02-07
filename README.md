@@ -61,5 +61,4 @@ The data is first cleaned and processed using Python before being visualized in 
 
 ---
 
-## 🗂️ Project Structure
 
