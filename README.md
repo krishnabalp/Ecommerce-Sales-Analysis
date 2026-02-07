@@ -1,67 +1,65 @@
-📊 E-commerce Sales & Pricing Analysis
+# 📊 E-Commerce Sales Analysis
 
-A complete end-to-end E-commerce data analysis project that uses Python and Power BI to transform raw sales transactions into meaningful business insights.
+This project focuses on analyzing e-commerce sales data to uncover meaningful business insights using **Python** and **Power BI**. It demonstrates an end-to-end data analysis workflow — from raw data cleaning to interactive dashboard creation.
 
-🚀 Project Overview
+---
 
-This project demonstrates how to:
+## 🚀 Project Objective
 
-✔️ Clean and prepare e-commerce transaction data
-✔️ Explore key sales and pricing trends
-✔️ Build interactive visual dashboards using Power BI
-✔️ Derive actionable business insights from raw data
+The main objectives of this project are:
 
-The goal is to turn transactional data into strategic intelligence that helps understand sales performance and pricing behaviour.
+- To analyze overall sales performance  
+- To identify trends across product categories and time periods  
+- To understand pricing and discount behaviour  
+- To present insights using interactive visual dashboards  
 
-📦 Dataset
+---
 
-The dataset used in this project contains e-commerce sales records, including details such as:
+## 📦 Dataset Description
 
-Product categories
+The dataset contains e-commerce transaction details such as:
 
-Pricing and discount information
+- Order date  
+- Product category  
+- Selling price and discounts  
+- Payment method  
+- Order value  
 
-Payment methods
+The data is first cleaned and processed using Python before being visualized in Power BI.
 
-Purchase dates
+---
 
-Order values
+## 🛠️ Tools & Technologies Used
 
-(Add dataset source link or file location here if available)
+- **Python**
+  - Pandas
+  - NumPy
+  - Matplotlib / Seaborn  
+- **Power BI**
+  - Data modeling
+  - DAX measures
+  - Interactive dashboards
 
-🛠️ Tools & Technologies
+---
 
-This analysis leverages:
+## 🔍 Key Analysis Performed
 
-Python (Pandas, NumPy, Matplotlib/Seaborn) for data processing
+- Total sales and revenue analysis  
+- Category-wise sales distribution  
+- Monthly and trend-based sales analysis  
+- Discount and pricing impact analysis  
+- KPI-based reporting using Power BI  
 
-Power BI for interactive dashboards and KPI reports
+---
 
-These tools help in both analytical processing and compelling data visualization.
+## 📊 Key Insights
 
-🔍 Key Analysis Modules
+- Identified top-performing product categories  
+- Observed seasonal and monthly sales trends  
+- Analyzed how discounts affect revenue  
+- Built dashboards suitable for management-level reporting  
 
-The project includes the following analyses:
+---
 
-Total Sales & Order Volume Trends
+## 🗂️ Project Structure
 
-Category-wise Sales Distribution
-
-Monthly Sales Patterns
-
-Average Discount and Pricing Analysis
-
-Visual Reports in Power BI
-
-Each of these supports better business decisions by identifying performance patterns and highlighting areas for improvement.
-
-📊 Outcomes
-
-By transforming raw data into structured insights, this project:
-
-✅ Reveals how data cleaning improves insight accuracy
-✅ Shows monthly and category sales trends
-✅ Highlights pricing and discount effects on revenue
-✅ Provides interactive dashboards for executive reporting
-
-These outcomes demonstrate the value of combining analytical scripting (Python) with business reporting tools (Power BI)
