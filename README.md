@@ -1,64 +1,102 @@
-#  E-Commerce Sales Analysis
+📊 E-commerce Sales & Pricing Analysis
+📌 Project Overview
 
-This project focuses on analyzing e-commerce sales data to uncover meaningful business insights using **Python** and **Power BI**. It demonstrates an end-to-end data analysis workflow — from raw data cleaning to interactive dashboard creation.
+This project focuses on analyzing e-commerce sales and pricing data to understand customer behavior, pricing trends, and overall business performance. The analysis was carried out using Python for data cleaning and processing, and Power BI for building interactive dashboards and KPIs.
 
----
+The objective of this project is to demonstrate practical data analysis skills such as data cleaning, exploratory analysis, KPI creation, and dashboard-based insights.
 
-## Project Objective
+🧾 Dataset Description
 
-The main objectives of this project are:
+The dataset contains transactional e-commerce data with the following key attributes:
 
-- To analyze overall sales performance  
-- To identify trends across product categories and time periods  
-- To understand pricing and discount behaviour  
-- To present insights using interactive visual dashboards  
+User ID
 
----
+Product ID
 
-##  Dataset Description
+Product Category
 
-The dataset contains e-commerce transaction details such as:
+Price and Discount
 
-- Order date  
-- Product category  
-- Selling price and discounts  
-- Payment method  
-- Order value  
+Final Price
 
-The data is first cleaned and processed using Python before being visualized in Power BI.
+Payment Method
 
----
+Purchase Date
 
-##  Tools & Technologies Used
+The data represents customer purchases across multiple product categories such as Electronics, Clothing, Beauty, Sports, and more.
 
-- **Python**
-  - Pandas
-  - NumPy
-  - Matplotlib / Seaborn  
-- **Power BI**
-  - Data modeling
-  - DAX measures
-  - Interactive dashboards
+🛠 Tools & Technologies Used
 
----
+Python (pandas, numpy) – data cleaning and preprocessing
 
-##  Key Analysis Performed
+Power BI – data visualization and dashboard creation
 
-- Total sales and revenue analysis  
-- Category-wise sales distribution  
-- Monthly and trend-based sales analysis  
-- Discount and pricing impact analysis  
-- KPI-based reporting using Power BI  
+Excel (supporting analysis)
 
----
+GitHub – project version control and documentation
 
-##  Key Insights
+🔄 Project Workflow
 
-- Identified top-performing product categories  
-- Observed seasonal and monthly sales trends  
-- Analyzed how discounts affect revenue  
-- Built dashboards suitable for management-level reporting  
+Imported raw e-commerce data into Python
 
----
+Performed data cleaning (handling missing values, formatting dates, creating derived columns)
 
+Conducted basic exploratory data analysis (EDA)
 
+Created KPIs and summary metrics
+
+Built interactive dashboards in Power BI for business insights
+
+📈 Key Analysis & Insights
+
+Sales distribution across product categories
+
+Monthly purchase trends
+
+Impact of discounts on final price
+
+Preferred payment methods
+
+Category-wise performance comparison
+
+📊 Dashboard
+
+The Power BI dashboard highlights:
+
+Total sales and transaction volume
+
+Category-wise sales performance
+
+Monthly sales trends
+
+Key KPIs for business tracking
+
+📁 Repository Structure
+Ecommerce-Sales-Analysis/
+│
+├── data/
+│   └── cleaned_ecommerce_data.csv
+│
+├── notebooks/
+│   └── data_cleaning_analysis.ipynb
+│
+├── powerbi/
+│   └── ecommerce_sales_dashboard.pbix
+│
+└── README.md
+
+🎯 Skills Demonstrated
+
+Data Cleaning & Preprocessing
+
+Exploratory Data Analysis (EDA)
+
+KPI Development
+
+Business-focused Data Visualization
+
+Python & Power BI integration
+
+🚀 Conclusion
+
+This project showcases end-to-end data analysis, from raw data to business-ready dashboards. It reflects practical skills commonly required in Data Analyst and Business Analyst roles, with a focus on structured analysis and clear presentation of insights.
