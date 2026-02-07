@@ -92,10 +92,3 @@ Ecommerce-Sales-Analysis/
 
 * This project showcases an end-to-end data analysis workflow, from raw data processing to dashboard creation.
 * It reflects practical analytics skills relevant to Data Analyst and Business Analyst roles.
-
-
-* A **shorter README** (some recruiters skim)
-* A **resume-ready project description**
-* A **LinkedIn project description**
-
-Just tell me 👍
